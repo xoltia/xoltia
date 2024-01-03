@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![My Profile Stats](https://github-readme-stats.vercel.app/api?username=xoltia&rank_icon=github&theme=transparent)
-
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoltia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=transparent)
 
 <!--
