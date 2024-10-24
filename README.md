@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoltia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=transparent)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoltia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=transparent&hide=Vue,HTML,Nix,CSS)
 
 
 <!--
